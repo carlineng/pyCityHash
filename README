@@ -1,4 +1,8 @@
-Python wrapper around Google's CityHash.
+Python wrapper around Google's CityHash, non-cryptographic 64-bit and 128-bit
+hash functions.  See http://code.google.com/p/cityhash/ for more information
+
+Uses SWIG to generate wrapper.  See http://www.swig.org/ for more information
+
 To install and run:
 
 $ ./install.sh
