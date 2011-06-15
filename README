@@ -1,0 +1,8 @@
+Python wrapper around Google's CityHash.
+To install and run:
+
+$ ./install.sh
+$ python
+>>> import city
+>>> city.CityHash64('a',1)
+2603192927274642682
