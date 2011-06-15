@@ -10,3 +10,5 @@ $ python
 >>> import city
 >>> city.CityHash64('a',1)
 2603192927274642682
+
+TODO: use Distutils 
